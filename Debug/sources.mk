@@ -25,5 +25,5 @@ SUBDIRS := \
 Core/Src \
 Core/Startup \
 Drivers/STM32F1xx_HAL_Driver/Src \
-app/tdse-tp0_05-hw_sw_test/app/src \
+app/src \
 
